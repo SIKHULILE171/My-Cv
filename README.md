@@ -17,5 +17,5 @@ It also reflects my personality and hobbies, such as exercising and jogging.
 - Styled with CSS for a modern layout
 
 ## Deployment
-View the live site here: [https://SIKHULILE171.github.io/MyCV](https://SIKHULILE171.github.io/MyCV)
+View the live site here: [https://SIKHULILE171.github.io/MyCv](https://SIKHULILE171.github.io/MyCv)
 
